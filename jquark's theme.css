@@ -1,59 +1,59 @@
 header.common_gnb { /* 맨 위에 있는 툴바 */
-  background-color: #232323;
+  background-color: #B5D692;
 }
 
 div.entryScene { /* 엔트리 장면 */
-  background-color: #232323;
+  background-color: #B5D692;
 }
 
 div.engineContainer { /* 왼쪽 패널(미리보기 화면, 오브젝트 선택 창) */
-  background-color: #232323;
+  background-color: #B5D692;
 }
 
 div.entryPlaygroundWorkspace { /* 블록 조립소 */
-  background-color: #232323;
+  background-color: #B5D692;
 }
 
 div.entryPlaygroundTabWorkspace { /* 탭 패널(블록, 모양, 소리, 속성 등) */
-  background-color: #232323;
+  background-color: #B5D692;
 }
 
 div.entryPlaygroundButtonTabWorkspace {
-  background-color: #ffffff00;
+  background-color: #B5D692;
 }
 
 a.btn_work_space {
-  background-color: #232323 !important;
-  border: 1px solid #ffffff !important;
+  background-color: #B5D692 !important;
+  border: 1px solid #B5D692 !important;
 }
 
  a.select_link {
-   background-color: #232323 !important;
-   border: 1px solid #ffffff !important;
+   background-color: #B5D692 !important;
+   border: 1px solid #B5D692 !important;
  }
 
 div.entryWorkspaceBoard {
-  background-image: url('https://drive.google.com/uc?export=download&id=1NaFlUOlI0n1hi2RdHHZfTvvL3kBXU_lt');
+  background-image: url('https://www.xmple.com/wallpaper/black-white-lime-gradient-hexagon-glow-3840x2160-c4-a8c787-ffffff-b5d692-000000-l2-30-379-a-0-f-6.svg');
   background-size: 100px 100px;
   border: 0px;
 }
 
 div.rcs-inner-container {
-  background-color: #232323;
+  background-color: #B5D692;
 }
 
 div.blockMenuContainer {
-  background-color: #232323;
-  border: 1px solid black;
-  filter: drop-shadow(20px 0 30px rgba(0, 0, 0, 0.5));
+  background-color: #B5D692;
+  border: 1px solid white;
+  filter: drop-shadow(30px 0 30px rgba(0, 0, 0, 0.5));
 }
 
 ul.entryCategoryListWorkspace {
-  background-color: #232323;
+  background-color: #B5D692;
 }
 
 div.entryWorkspaceBlockMenu {
-  background-color: black;
+  background-color: white;
 }
 
 div.propertyContent {
@@ -61,16 +61,16 @@ div.propertyContent {
 }
 
 li.entryCategoryElementWorkspace:not(.entrySelectedCategory) {
-  background-color: #232323 !important;
-  color: #aaaaaa;
+  background-color: #B5D692 !important;
+  color: #B5D692;
   border: 1px solid black;
 }
 
 ul.entryCategoryListWorkspace:before {
-  border: 1px solid black;
+  border: 1px solid white;
 }
 div.entryVariablePanelWorkspace {
-  background-color: #232323;
+  background-color: #B5D692;
 }
 
 a.attr_link {
@@ -78,7 +78,7 @@ a.attr_link {
 }
 
 div.unfold > a{
-  background-color: #444444 !important;
+  background-color: #B5D692 !important;
 }
 
 div.entryOverlayBoard {
@@ -86,7 +86,7 @@ div.entryOverlayBoard {
 }
 
 div.entryPlaygroundSoundEdit {
-  background-color: #3a3a3a;
+  background-color: #B5D692
 }
 
 span.entryPlaygroundSoundEditText {
@@ -94,15 +94,15 @@ span.entryPlaygroundSoundEditText {
 }
 
 header._2OWWq-egc7teQQP7HyL9f4 {
-  background-color: #232323 !important;
+  background-color: #B5D692 !important;
 }
 
 div._1x2RXYa5hQqHkrlHsAjlI_ {
-  background-color: #3a3a3af0 !important;
+  background-color: #B5D692 !important;
 }
 
 div._1HR4SSimyPIq-C8Jz_Wbkm {
-  background-color: #3a3a3af0 !important;
+  background-color: #B5D692 !important;
 }
 
 div._3NH1Xc4-gMGj_Q-1Ytj8Jm > input {
